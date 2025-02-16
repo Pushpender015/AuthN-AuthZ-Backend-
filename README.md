@@ -1,4 +1,4 @@
-# User Authentication App
+# User Authentication App 
 
 This is a Node.js-based user authentication application that uses Express.js, MongoDB, and JWT for authentication and authorization. The application provides user signup, login, and protected routes for different user roles (Admin and Student).
 
